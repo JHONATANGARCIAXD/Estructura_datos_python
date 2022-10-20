@@ -2,4 +2,4 @@
 
 # LISTAS, TUPLAS Y DICCIONARIOS
 
-Tipoas de datos que se caracterizan 
+Tipos de datos que se caracterizan 
