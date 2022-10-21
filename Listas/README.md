@@ -12,10 +12,10 @@
 
 |Indice|Elemento|
 |------|--------|
-|0|56|
-|1|"Python"|
-|2|"Valeria"|
-|3|345|
-|4|99|
+|0     |56      |   
+|1     |"Python"| 
+|2     |"Valeria"|
+|3     |345     |
+|4     |99      |
 
 - Los elementos de una lista empiezan por la posicion 0. 
