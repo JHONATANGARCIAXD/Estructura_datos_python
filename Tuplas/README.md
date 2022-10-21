@@ -6,7 +6,7 @@
 - Al igual de las listas, la tuplas puede contener elementos de diferentes tipos, por ejemplo una tupla puede estar compuesta por cadenas de texto, por números enteros, etc. 
 - Las tuplas en Python se representan por una serie de elementos separados por comas y delimitados entre paréntesis. 
 
--Ejemplo:
+- Ejemplo:
 `("Casa", "2", 345 ,"Perro", 99)`
 - La tupla estaria compuesta por 5 elementos, las cadenas de texto "Casa", "2" y "Perro" y los número enteros 345 y 99. 
 - Al igual que las listas, los elementos de las tuplas ocupan posiciones concretas, y mediante esa posición que ocupan podemos acceder directamente a los elementos.
