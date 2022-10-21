@@ -9,7 +9,7 @@ print (lista)
 print(lista[0])
 print(lista[2])
 
-# 2. Consiste en el uso del operador + para realizar uniones de listas. Ademas, utilizar la funcion len() para conocer  el número de elementos que componen la lista.
+# 2. Consiste en el uso del operador + para realizar uniones de tuplas. Ademas, utilizar la funcion len() para conocer  el número de elementos que componen la lista.
 print("------Ejercicio 2------")
 lista1 = ["Camiseta", "Pantalón", "Zapatos"]
 lista2 = ["Abrigo", "Jersey", "Sudadera", "Calcetines"]
