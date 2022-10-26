@@ -18,6 +18,18 @@ print(diassemanaingles["Viernes"])
 
 # 2. Consiste en añadir elementos al diccionario, eliminar elementos del diccionario y modificar elvalor de los elementos  del diccionario
 
+# Para añadir elementos al diccionario es  de la siguiente forma:
+# diccionario["Nuevaclave"] = "Nuevovalor"
+
+# Para modifcar el valor de un elemento del diccionario es de la siguiente forma:
+#diccionario["ClaveQueSeVaAModificar"] = "Nuevovalor"
+
+# Para eliminar un elemento del diccionario es de la siguiente forma:
+# del diccionario["ClaveQueSeVaAEliminar"]
+
+
+# Ejemplo:
+
 print("------Ejercicio 2------")
 diassemanaingles = {"Lunes" : "Monday",
                     "Martes" : "Tuesday",
