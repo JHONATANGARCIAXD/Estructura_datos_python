@@ -35,7 +35,7 @@ print("--------Update--------")
 diassemanaingles.update({"Lunes": "MondayNUEVO", "Martes": "TuesdayNUEVO"})
 print("Diccionario después del update: " , diassemanaingles)
 
-# Función Setdefault: Intena insetar un elemento (clave y valor) en el diccionario. En caso de no  existir dicho elemento. la función inserta y devuelve el valor del elemento y en caso de existir, lo único que hace es devolver el valor actual.
+# Función Setdefault: Intenta insetar un elemento (clave y valor) en el diccionario. En caso de no  existir dicho elemento. la función inserta y devuelve el valor del elemento y en caso de existir, lo único que hace es devolver el valor actual.
 print("--------Setdefault--------")
 print("Setdefault: " , diassemanaingles.setdefault("Sabado" , "Saturday"))
 print("Diccionario después del setdefault (Nuevo Elemento): " , diassemanaingles)
